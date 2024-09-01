@@ -19,12 +19,28 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
-Write your own steps
+Import the necessary packages and modules
 
 ### STEP 2:
+Load and read the dataset
 
 ### STEP 3:
+Perform pre processing and clean the dataset
 
+### STEP 4:
+Normalize the values an split the values of x and y
+
+### STEP 5:
+Build the deep learning model with appropriate layers and depth
+
+### STEP 6:
+PLot a graph for Training loss, Validation loss Vs Iteration and for Accuracy, Validation Accuracy Vs Iteration
+
+### STEP 7:
+Save the model using pickle
+
+### STEP 8:
+the DL model predict for some random inputs
 
 ## PROGRAM
 
